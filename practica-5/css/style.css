@@ -1,0 +1,32 @@
+body {
+    background-color: #c300ff;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+
+td {
+    vertical-align: text-top;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
+
+div {
+    color: #fffb00;
+    height: 100%;
+    width: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid #ff0202;
+    background-color: #0400ff;
+    border-radius: 15px;
+    border: solid 2px #1b3dff;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px #3affb3;
+}
